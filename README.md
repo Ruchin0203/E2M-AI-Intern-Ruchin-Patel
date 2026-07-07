@@ -11,7 +11,7 @@
 **AI-assisted recruiter tool that scores a resume against a job description — explainably.**
 **No black-box LLM scoring. Every number is traceable back to deterministic Python logic.**
 
-[**How It Works**](#how-it-works) · [**Quick Start**](#quick-start) · [**Scoring Model**](#scoring-model) · [**Screenshots**](#screenshots) · [**Author**](#author)
+[**How It Works**](#how-it-works) · [**Quick Start**](#quick-start) · [**Scoring Model**](#scoring-model) · [**Author**](#author)
 
 </div>
 
@@ -321,11 +321,6 @@ Returns `overall_score`, `score_breakdown`, `matched_skills`, `missing_skills`, 
 Simple liveness check — returns `{"status": "ok"}`.
 
 ---
-
-## Screenshots
-
-> Add your own screenshots here after running the app locally, e.g.:
-> `![Dashboard](docs/dashboard.png)`
 
 | View | Description |
 |---|---|
