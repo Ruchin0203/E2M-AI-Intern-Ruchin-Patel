@@ -366,13 +366,6 @@ Simple liveness check — returns `{"status": "ok"}`.
   </tr>
 </table>
 
----
-
-## License
-
-This project is released under the [MIT License](LICENSE).
-
----
 
 <div align="center">
 
