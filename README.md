@@ -60,7 +60,7 @@ resume-jd-matcher/
 ```
 Resume PDF ──► Parser (PyMuPDF) ──► Resume Analyzer (LangChain/Gemini) ──► Candidate Profile JSON
                                                                                     │
-Job Description ──► JD Analyzer (LangChain/Gemini) ──► Requirement Profile JSON ──┤
+Job Description ──► JD Analyzer (LangChain/Gemini) ──► Requirement Profile JSON   ──┤
                                                                                     ▼
                                                               Matching Engine (pure Python)
                                                                           │
