@@ -7,7 +7,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-LCEL-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-1.5_Flash-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![React](https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **AI-assisted recruiter tool that scores a resume against a job description — explainably.**
 **No black-box LLM scoring. Every number is traceable back to deterministic Python logic.**
